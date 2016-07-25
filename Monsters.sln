@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monsters", "Monsters\Monsters.csproj", "{98A2B688-5D1B-4A32-876D-FA60397C1663}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monsters.Core", "Monsters.Core\Monsters.Core.csproj", "{157A6D87-FEDF-4981-B9F1-C28457E247EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monsters", "Monsters\Monsters.csproj", "{1C1B7775-88B6-413D-8B9C-DAA7BBC62CF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{98A2B688-5D1B-4A32-876D-FA60397C1663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{98A2B688-5D1B-4A32-876D-FA60397C1663}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{98A2B688-5D1B-4A32-876D-FA60397C1663}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{98A2B688-5D1B-4A32-876D-FA60397C1663}.Release|Any CPU.Build.0 = Release|Any CPU
 		{157A6D87-FEDF-4981-B9F1-C28457E247EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{157A6D87-FEDF-4981-B9F1-C28457E247EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{157A6D87-FEDF-4981-B9F1-C28457E247EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{157A6D87-FEDF-4981-B9F1-C28457E247EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1B7775-88B6-413D-8B9C-DAA7BBC62CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1B7775-88B6-413D-8B9C-DAA7BBC62CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1B7775-88B6-413D-8B9C-DAA7BBC62CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1B7775-88B6-413D-8B9C-DAA7BBC62CF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
